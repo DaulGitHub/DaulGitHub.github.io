@@ -1,5 +1,5 @@
 baseURL = "https://daulgithub.github.io/"
-title = "Daulet | Fractional Tech Lead & Architect"
+title = "Мавлоназаров Даулет"
 theme = "hugo-coder"
 locale = "ru"
 defaultContentLanguage = "ru"
@@ -17,38 +17,15 @@ enableEmoji = true
   hidecopyright = false
   since = 2024
 
-[languages]
-  [languages.ru]
-    label = "Русский"
-    title = "Мавлоназаров Даулет"
-    weight = 1
-  [languages.en]
-    label = "English"
-    title = "Mavlonazarov Daulet"
-    weight = 2
-
-[[languages.ru.menu.main]]
+[[menu.main]]
   name = "Анти-био"
   weight = 1
   url = "/anti-bio/"
-[[languages.ru.menu.main]]
+[[menu.main]]
   name = "Консалтинг"
   weight = 2
   url = "/consulting/"
-[[languages.ru.menu.main]]
-  name = "Twinspector"
-  weight = 3
-  url = "/twinspector/"
-
-[[languages.en.menu.main]]
-  name = "Anti-bio"
-  weight = 1
-  url = "/anti-bio/"
-[[languages.en.menu.main]]
-  name = "Consulting"
-  weight = 2
-  url = "/consulting/"
-[[languages.en.menu.main]]
+[[menu.main]]
   name = "Twinspector"
   weight = 3
   url = "/twinspector/"
