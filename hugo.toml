@@ -28,19 +28,27 @@ enableEmoji = true
     weight = 2
 
 [[languages.ru.menu.main]]
-  name = "Консалтинг"
+  name = "Анти-био"
   weight = 1
-  url = "#my-arsenal"
+  url = "/anti-bio/"
+[[languages.ru.menu.main]]
+  name = "Консалтинг"
+  weight = 2
+  url = "/consulting/"
 [[languages.ru.menu.main]]
   name = "Twinspector"
-  weight = 2
-  url = "#twinspector"
+  weight = 3
+  url = "/twinspector/"
 
 [[languages.en.menu.main]]
-  name = "Consulting"
+  name = "Anti-bio"
   weight = 1
-  url = "#my-arsenal"
+  url = "/anti-bio/"
+[[languages.en.menu.main]]
+  name = "Consulting"
+  weight = 2
+  url = "/consulting/"
 [[languages.en.menu.main]]
   name = "Twinspector"
-  weight = 2
-  url = "#twinspector"
+  weight = 3
+  url = "/twinspector/"
