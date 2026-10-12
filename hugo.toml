@@ -8,7 +8,7 @@ enableEmoji = true
 
 [params]
   author = "Daulet"
-  info = "Fractional Tech Lead | Cyber-Physical Systems Architect"
+  info = "Tech Lead | Cyber-Physical Systems Architect"
   description = "Personal hub and portfolio of Daulet."
   keywords = "tech lead, hardware, cv, edge ai, twinspector, embedded"
   avatarurl = "images/avatar.jpg" # Agent: Remind user to put an image here later
@@ -20,11 +20,11 @@ enableEmoji = true
 [languages]
   [languages.ru]
     label = "Русский"
-    title = "Мавлоназаров Даулет | Архитектор ПАК"
+    title = "Мавлоназаров Даулет"
     weight = 1
   [languages.en]
     label = "English"
-    title = "Mavlonazarov Daulet | Systems Architect"
+    title = "Mavlonazarov Daulet"
     weight = 2
 
 [[languages.ru.menu.main]]
