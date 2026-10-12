@@ -1,0 +1,46 @@
+baseURL = "https://dmavlonazrov.github.io/"
+title = "Daulet | Fractional Tech Lead & Architect"
+theme = "hugo-coder"
+locale = "ru"
+defaultContentLanguage = "ru"
+
+enableEmoji = true
+
+[params]
+  author = "Daulet"
+  info = "Fractional Tech Lead | Cyber-Physical Systems Architect"
+  description = "Personal hub and portfolio of Daulet."
+  keywords = "tech lead, hardware, cv, edge ai, twinspector, embedded"
+  avatarurl = "images/avatar.jpg" # Agent: Remind user to put an image here later
+
+  hidecredits = true
+  hidecopyright = false
+  since = 2024
+
+[languages]
+  [languages.ru]
+    label = "Русский"
+    title = "Даулет | Архитектор ПАК"
+    weight = 1
+  [languages.en]
+    label = "English"
+    title = "Daulet | Systems Architect"
+    weight = 2
+
+[[languages.ru.menu.main]]
+  name = "Консалтинг"
+  weight = 1
+  url = "#my-arsenal"
+[[languages.ru.menu.main]]
+  name = "Twinspector"
+  weight = 2
+  url = "#twinspector"
+
+[[languages.en.menu.main]]
+  name = "Consulting"
+  weight = 1
+  url = "#my-arsenal"
+[[languages.en.menu.main]]
+  name = "Twinspector"
+  weight = 2
+  url = "#twinspector"
