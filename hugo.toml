@@ -29,3 +29,7 @@ enableEmoji = true
   name = "Twinspector"
   weight = 3
   url = "/twinspector/"
+[[menu.main]]
+  name = "Контакты"
+  weight = 4
+  url = "/contacts/"
